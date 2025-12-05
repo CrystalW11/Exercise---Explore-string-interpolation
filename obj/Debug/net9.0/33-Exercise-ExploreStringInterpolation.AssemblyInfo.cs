@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("33-Exercise-ExploreStringInterpolation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d789ced0f41a2fac44ad8887970783e593d3a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("33-Exercise-ExploreStringInterpolation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("33-Exercise-ExploreStringInterpolation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

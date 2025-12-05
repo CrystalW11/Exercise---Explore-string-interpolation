@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\33-Exercise-ExploreStringInterpolation\
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\33-Exercise-ExploreStringInterpolation\obj\Debug\net9.0\33-Exercise-ExploreStringInterpolation.pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\33-Exercise-ExploreStringInterpolation\obj\Debug\net9.0\33-Exercise-ExploreStringInterpolation.genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\33-Exercise-ExploreStringInterpolation\obj\Debug\net9.0\ref\33-Exercise-ExploreStringInterpolation.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\33-Exercise-ExploreStringInterpolation\obj\Debug\net9.0\33-Exercise-ExploreStringInterpolation.sourcelink.json
